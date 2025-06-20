@@ -14,7 +14,7 @@ Metode yang digunakan mencakup:
 
 Dataset dikumpulkan secara manual melalui scraping dari halaman ulasan aplikasi Shopee di Playstore.
 
-📎 **([https://example.com/shopee_sentiment_dataset.csv](https://drive.google.com/file/d/1qd416TqdtMsoaWqbQJLU6zv2gXfAAApQ/view?usp=sharing))**  
+📎 **(https://drive.google.com/file/d/1qd416TqdtMsoaWqbQJLU6zv2gXfAAApQ/view?usp=sharing))**  
 
 
 ---
