@@ -56,4 +56,3 @@ Model mencapai **akurasi 88%**, menunjukkan kemampuan yang cukup kuat untuk klas
 
 ---
 
-📬 Jika Anda tertarik mengembangkan lebih lanjut proyek ini atau ingin menguji model pada data aplikasi lain, silakan fork repository ini dan kustomisasi sesuai kebutuhan Anda.
