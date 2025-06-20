@@ -55,11 +55,3 @@ Framework: `scikit-learn`, `pandas`, `Sastrawi`, `matplotlib`
 Model mencapai **akurasi 88%**, menunjukkan kemampuan yang cukup kuat untuk klasifikasi sentimen pada data komentar.
 
 ---
-
-## 📜 Sertifikasi Saya
-
-### 🎓 Google Data Analytics – Coursera
-[![Google Badge](https://images.credly.com/size/110x110/images/xxxxxxxx/google-data-analytics.png)](https://www.credly.com/badges/xxxxxxxx)
-
-### ☁️ AWS Cloud Practitioner – Amazon
-[![AWS Badge](https://images.credly.com/size/110x110/images/yyyyyyyy/aws-cloud-practitioner.png)](https://www.credly.com/badges/yyyyyyyy)
